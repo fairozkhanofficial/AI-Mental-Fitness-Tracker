@@ -1,8 +1,7 @@
 # Mental Fitness Tracker
 
 A regression project that predicts the mental fitness level of a country from the
-prevalence of mental and substance use disorders. I originally built this during my
-AICTE internship (IBM SkillsBuild program) and rebuilt it here as a cleaner version.
+prevalence of mental and substance use disorders.
 
 ## Dataset
 
